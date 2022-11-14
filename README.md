@@ -12,7 +12,7 @@
 - :electron: In 2022, I touched React JS and Node JS and made a Progressive Web App (To-Do App) that also works Offline.
 - 🧠 Besides, I also do Competitive Coding to learn new techniques and improve Real-Life Problem Solving Skills.
 - ☁️ I also did the AWS Cloud Practitioner Essentials course and had deployed a website during the virtual internship program under Microsoft Azure using their services (like Chatbot).
-- 📖 I studied Cyber Security for an internship under Cisco Netacad and Palo Alto Networks and worked on Packet Tracer. 
+
 - 🎹 I love listening to music and playing drum set.
 - 💝 I love spending time with my future Fiance Aira.
  
