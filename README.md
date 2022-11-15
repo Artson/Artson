@@ -5,7 +5,7 @@
 
 ## 👻 About Me:
 - 🏫 I am a 20 yrs old college student, currently pursuing Bachelor’s degree in Computer Science at Saint Mary's University, Bayombong, Nueva Vizcaya, Philippines.
-- ⚡️ I have been learning and practicing JAVA since SHS pandemic 2020. I have also learned C and C++ along with Data Structure and Algorithms in 2020-2021.
+- ⚡️ I have been learning and practicing JAVA since SHS pandemic 2021. I have also learned C and C++ along with Data Structure and Algorithms in 2021-2022.
 - 🔭 I had also made a few apps (like Tic-Tac-Toe game and Current Money Rate) in JAVA using Android Studio in 2022.
 - 👩‍💻 In 2021, I learned HTML, CSS, and JavaScript and made a few Projects and many Mini-Projects.
 - 🎮 I am also interested in learning Unity Game Engine & Unreal Engine in the near future for Game Developer.
