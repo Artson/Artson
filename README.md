@@ -7,11 +7,11 @@
 - 🏫 I am a 20 yrs old college student, currently pursuing Bachelor’s degree in Computer Science at Saint Mary's University, Bayombong, Nueva Vizcaya, Philippines.
 - ⚡️ I have been learning and practicing JAVA since SHS pandemic 2021. I have also learned C and C++ along with Data Structure and Algorithms in 2021-2022.
 - 🔭 I had also made a few apps (like Tic-Tac-Toe game and Current Money Rate) in JAVA using Android Studio in 2022.
-- 👩‍💻 In 2021, I learned HTML, CSS, and JavaScript and made a few Projects and many Mini-Projects.
+- 👩‍💻 In 2021, I learned the basics of HTML, CSS, and JavaScript and made a few Projects and many Mini-Projects.
 - 🎮 I am also interested in learning Unity Game Engine & Unreal Engine in the near future for Game Developer.
-- :electron: In 2022, I touched React JS and Node JS and made a Progressive Web App (To-Do App) that also works Offline.
-- 🧠 Besides, I also do Competitive Coding to learn new techniques and improve Real-Life Problem Solving Skills.
-- ☁️ I also did the AWS Cloud Practitioner Essentials course and had deployed a website during the virtual internship program under Microsoft Azure using their services (like Chatbot).
+- :electron: In 2022, I touched flutter and made a Progressive App (To-Do App) that also works Offline.
+- 🧠 Besides, I also do love Competitive Coding to learn new techniques and improve Real-Life Problem Solving Skills.
+- ☁️ 
 
 - 🎹 I love listening to music and playing drum set.
 - 💝 I love spending time with my future Fiance Aira.
