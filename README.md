@@ -9,7 +9,7 @@
 - 🔭 I had also made a few apps (like Tic-Tac-Toe game and Current Money Rate) in JAVA using Android Studio in 2022.
 - 👩‍💻 In 2021, I learned the basics of HTML, CSS, and JavaScript and made a few Projects and many Mini-Projects.
 - 🎮 I am also interested in learning Unity Game Engine & Unreal Engine in the near future for Game Developer.
-- :electron: In 2022, I touched flutter and made a Progressive App (To-Do App) that also works Offline.
+- :electron: In 2022, Im currently self studying flutter app and made a Progressive App (To-Do App,Instagram clone) that also works Offline.
 - 🧠 Besides, I also do love Competitive Coding to learn new techniques and improve Real-Life Problem Solving Skills.
 - ☁️ 
 
